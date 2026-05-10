@@ -1,2 +1,2 @@
 #Task git-task
-print("Hello World")
+print("Git is awesome!")
